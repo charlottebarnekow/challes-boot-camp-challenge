@@ -1,4 +1,8 @@
+body {
+  background-color: #18344e;
+    }
 
-h1 {
-  color: #0025FF;
-}
+ div.main {
+  margin-top: 10em;
+  text-align: center;
+   }
